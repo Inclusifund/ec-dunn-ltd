@@ -8,7 +8,7 @@ export function JsonLd() {
       "Specialist ceilings and partitions contractor with 25+ years experience across London, Essex and South East England. Suspended ceilings, drylining, partitions for schools, hospitals, heritage sites and commercial projects.",
     url: "https://ecdunnltd.co.uk",
     telephone: "+447778321064",
-    email: "info@ecdunnltd.co.uk",
+    email: "edwarddunn9234@btinternet.com",
     address: {
       "@type": "PostalAddress",
       streetAddress: "Spectrum House, 2b Suttons Lane",

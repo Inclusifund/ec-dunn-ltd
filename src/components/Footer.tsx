@@ -58,10 +58,10 @@ export function Footer() {
               </p>
               <p>
                 <a
-                  href="mailto:info@ecdunnltd.co.uk"
+                  href="mailto:edwarddunn9234@btinternet.com"
                   className="hover:text-gold transition-colors"
                 >
-                  info@ecdunnltd.co.uk
+                  edwarddunn9234@btinternet.com
                 </a>
               </p>
             </div>

@@ -64,10 +64,10 @@ export function Contact() {
                 <div>
                   <div className="font-semibold text-navy">Email</div>
                   <a
-                    href="mailto:info@ecdunnltd.co.uk"
+                    href="mailto:edwarddunn9234@btinternet.com"
                     className="text-slate-light hover:text-gold transition-colors"
                   >
-                    info@ecdunnltd.co.uk
+                    edwarddunn9234@btinternet.com
                   </a>
                 </div>
               </div>
