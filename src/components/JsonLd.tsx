@@ -11,10 +11,10 @@ export function JsonLd() {
     email: "edwarddunn9234@btinternet.com",
     address: {
       "@type": "PostalAddress",
-      streetAddress: "Spectrum House, 2b Suttons Lane",
-      addressLocality: "Hornchurch",
+      streetAddress: "7 Lodysons Close",
+      addressLocality: "Orsett",
       addressRegion: "Essex",
-      postalCode: "RM12 6RJ",
+      postalCode: "",
       addressCountry: "GB",
     },
     geo: {

@@ -15,6 +15,7 @@ export const metadata: Metadata = {
     "suspended ceiling installer",
     "drylining contractor London",
     "commercial ceilings Essex",
+    "ceiling contractor Orsett",
     "ceiling contractor Hornchurch",
     "partition walls London",
     "heritage ceiling restoration",

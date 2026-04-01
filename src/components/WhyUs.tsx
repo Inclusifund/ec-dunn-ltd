@@ -27,8 +27,17 @@ const reasons = [
 
 export function WhyUs() {
   return (
-    <section id="why-us" className="py-20 md:py-28 bg-navy">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section id="why-us" className="relative py-20 md:py-28 bg-navy overflow-hidden">
+      {/* Background image */}
+      <div className="absolute inset-0">
+        <img
+          src="/ec-dunn-ltd/images/ai/whyus-bg.png"
+          alt=""
+          className="w-full h-full object-cover opacity-10"
+        />
+      </div>
+
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <span className="text-gold font-semibold text-sm uppercase tracking-wider">
             The E C Dunn Difference
@@ -46,7 +55,7 @@ export function WhyUs() {
           {reasons.map((reason) => (
             <div
               key={reason.title}
-              className="flex gap-5 p-6 rounded-lg border border-white/10 hover:border-gold/30 transition-colors"
+              className="flex gap-5 p-6 rounded-lg border border-white/10 hover:border-gold/30 transition-colors bg-navy/50 backdrop-blur-sm"
             >
               <div className="w-12 h-12 bg-gold/10 rounded-lg flex items-center justify-center shrink-0">
                 <svg

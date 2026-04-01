@@ -4,6 +4,7 @@ const areas = [
   "South London",
   "North London",
   "West London",
+  "Orsett",
   "Hornchurch",
   "Romford",
   "Upminster",
@@ -37,7 +38,7 @@ export function CoverageArea() {
             Areas We Cover
           </h2>
           <p className="text-slate-light mt-4 max-w-2xl mx-auto text-lg">
-            Based in Hornchurch, Essex, we work across London, Essex, Kent, and
+            Based in Orsett, Essex, we work across London, Essex, Kent, and
             the wider South East of England.
           </p>
         </div>

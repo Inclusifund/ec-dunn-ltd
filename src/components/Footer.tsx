@@ -46,8 +46,8 @@ export function Footer() {
             <h3 className="text-white font-semibold mb-4">Contact</h3>
             <div className="space-y-2 text-white/50 text-sm">
               <p>E C Dunn Ltd</p>
-              <p>Spectrum House, 2b Suttons Lane</p>
-              <p>Hornchurch, Essex, RM12 6RJ</p>
+              <p>7 Lodysons Close</p>
+              <p>Orsett, Essex</p>
               <p className="pt-2">
                 <a
                   href="tel:+447778321064"

@@ -96,9 +96,9 @@ export function Contact() {
                 <div>
                   <div className="font-semibold text-navy">Office</div>
                   <p className="text-slate-light">
-                    Spectrum House, 2b Suttons Lane
+                    7 Lodysons Close
                     <br />
-                    Hornchurch, Essex, RM12 6RJ
+                    Orsett, Essex
                   </p>
                 </div>
               </div>
