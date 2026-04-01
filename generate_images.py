@@ -11,7 +11,9 @@ from pathlib import Path
 from google import genai
 from google.genai import types
 
-API_KEY = os.environ.get("GEMINI_API_KEY", "REDACTED_KEY")
+API_KEY = os.environ.get("GEMINI_API_KEY")
+if not API_KEY:
+    raise RuntimeError("Set GEMINI_API_KEY env var before running. Add to ~/.claude/.env")
 IMAGE_MODEL = "imagen-4.0-generate-001"
 NATIVE_IMAGE_MODEL = "gemini-2.5-flash-preview-05-20"
 OUTPUT_DIR = Path(__file__).parent / "public" / "images" / "ai"
