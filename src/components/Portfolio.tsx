@@ -1,36 +1,36 @@
 const projects = [
   {
-    image: "/ec-dunn-ltd/images/ai/portfolio-circular.png",
+    image: "/images/project-circular-ceiling.jpg",
     title: "Circular Feature Ceiling",
     category: "MF Ceilings",
     description: "Bespoke circular recessed ceiling with integrated LED ring lighting and modern design.",
   },
   {
-    image: "/ec-dunn-ltd/images/ai/portfolio-luxury.png",
+    image: "/images/project-luxury-ceiling.jpg",
     title: "Luxury Residential Ceiling",
     category: "Bulkheads & Rafts",
     description: "Multi-level recessed ceiling with LED strip lighting and premium wall paneling.",
   },
   {
-    image: "/ec-dunn-ltd/images/ai/portfolio-heritage-panel.png",
+    image: "/images/project-heritage-panel.jpg",
     title: "Heritage Ceiling Panel",
     category: "Heritage & Restoration",
     description: "Ornate decorative ceiling panel with classical plasterwork and LED backlighting.",
   },
   {
-    image: "/ec-dunn-ltd/images/ai/hero-main.png",
+    image: "/images/project-led-corridor.jpg",
     title: "Crown Molding & Skirting",
     category: "MF Ceilings",
     description: "Elegant crown molding and decorative ceiling skirting with warm ambient lighting.",
   },
   {
-    image: "/ec-dunn-ltd/images/ai/sector-restaurant.png",
+    image: "/images/restaurant-interior.jpg",
     title: "Restaurant Fit-Out",
     category: "Suspended Ceilings",
     description: "Bespoke floating ceiling raft with hidden LED lighting for upscale dining.",
   },
   {
-    image: "/ec-dunn-ltd/images/ai/about-team.png",
+    image: "/images/project-sculptural-ceiling.jpg",
     title: "Precision Installation",
     category: "Partitions & Drylining",
     description: "Expert MF ceiling showing the transition from framework to flawless finish.",

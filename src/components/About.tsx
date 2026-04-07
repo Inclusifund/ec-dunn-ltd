@@ -7,7 +7,7 @@ export function About() {
           <div className="relative">
             <div className="rounded-lg overflow-hidden aspect-[4/3]">
               <img
-                src="/ec-dunn-ltd/images/ai/about-team.png"
+                src="/images/team-construction.jpg"
                 alt="Expert ceiling installation showing craftsmanship in progress"
                 className="w-full h-full object-cover"
               />

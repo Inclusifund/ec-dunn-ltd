@@ -31,7 +31,7 @@ export function WhyUs() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/ec-dunn-ltd/images/ai/whyus-bg.png"
+          src="/images/construction-site.jpg"
           alt=""
           className="w-full h-full object-cover opacity-10"
         />
