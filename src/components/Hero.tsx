@@ -4,7 +4,7 @@ export function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/images/hero-ceiling.jpg"
+          src="/images/ai/hero-main.png"
           alt="Luxury ceiling with ornate crown molding and LED lighting"
           className="w-full h-full object-cover opacity-15"
         />
@@ -71,7 +71,7 @@ export function Hero() {
           <div className="hidden lg:block relative">
             <div className="relative rounded-lg overflow-hidden shadow-2xl">
               <img
-                src="/images/project-luxury-ceiling.jpg"
+                src="/images/ai/portfolio-luxury.png"
                 alt="Luxury multi-level recessed ceiling with LED strip lighting"
                 className="w-full h-[500px] object-cover"
               />
@@ -79,7 +79,7 @@ export function Hero() {
             </div>
             <div className="absolute -bottom-6 -left-6 w-48 h-48 rounded-lg overflow-hidden shadow-xl border-4 border-navy">
               <img
-                src="/images/ceiling-detail.jpg"
+                src="/images/ai/hero-detail.png"
                 alt="Ornate crown molding and ceiling rose detail"
                 className="w-full h-full object-cover"
               />
