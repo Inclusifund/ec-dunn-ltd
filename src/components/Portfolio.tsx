@@ -1,36 +1,36 @@
 const projects = [
   {
-    image: "/images/ai/portfolio-circular.png",
+    image: "/images/ai/portfolio-circular.jpg",
     title: "Circular Feature Ceiling",
     category: "MF Ceilings",
     description: "Bespoke circular recessed ceiling with integrated LED ring lighting and modern design.",
   },
   {
-    image: "/images/ai/portfolio-luxury.png",
+    image: "/images/ai/portfolio-luxury.jpg",
     title: "Luxury Residential Ceiling",
     category: "Bulkheads & Rafts",
     description: "Multi-level recessed ceiling with LED strip lighting and premium wall paneling.",
   },
   {
-    image: "/images/ai/portfolio-heritage-panel.png",
+    image: "/images/ai/portfolio-heritage-panel.jpg",
     title: "Heritage Ceiling Panel",
     category: "Heritage & Restoration",
     description: "Ornate decorative ceiling panel with classical plasterwork and LED backlighting.",
   },
   {
-    image: "/images/ai/hero-main.png",
+    image: "/images/ai/hero-main.jpg",
     title: "Crown Molding & Skirting",
     category: "MF Ceilings",
     description: "Elegant crown molding and decorative ceiling skirting with warm ambient lighting.",
   },
   {
-    image: "/images/ai/sector-restaurant.png",
+    image: "/images/ai/sector-restaurant.jpg",
     title: "Restaurant Fit-Out",
     category: "Suspended Ceilings",
     description: "Bespoke floating ceiling raft with hidden LED lighting for upscale dining.",
   },
   {
-    image: "/images/ai/about-team.png",
+    image: "/images/ai/about-team.jpg",
     title: "Precision Installation",
     category: "Partitions & Drylining",
     description: "Expert MF ceiling showing the transition from framework to flawless finish.",

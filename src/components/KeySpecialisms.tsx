@@ -5,7 +5,7 @@ const specialisms = [
     tagline: "Inspiring learning environments",
     description:
       "Acoustic ceiling systems, corridor partitions, and hall renovations built to last across London and Essex schools.",
-    image: "/images/ai/sector-school.png",
+    image: "/images/ai/sector-school.jpg",
     features: ["Acoustic compliance", "BBA certified", "DfE approved"],
     accentColor: "#3b82f6",
   },
@@ -15,7 +15,7 @@ const specialisms = [
     tagline: "Precision-grade clinical environments",
     description:
       "Fire-rated, hygienic ceiling systems for NHS trusts, clinics, and healthcare facilities meeting HTM compliance.",
-    image: "/images/ai/sector-hospital.png",
+    image: "/images/ai/sector-hospital.jpg",
     features: ["HTM compliant", "Fire-rated Cat A", "Antibacterial"],
     accentColor: "#10b981",
   },
@@ -25,7 +25,7 @@ const specialisms = [
     tagline: "The backbone of every fit-out",
     description:
       "Metal stud partitions, drylining, and acoustic separations for offices, schools, hospitals, and commercial refurbishments. Our most in-demand trade.",
-    image: "/images/ai/about-team.png",
+    image: "/images/ai/about-team.jpg",
     features: ["Metal stud & MF", "Acoustic rated", "Fire compartmentation"],
     accentColor: "#c8973e",
   },
@@ -61,6 +61,7 @@ export function KeySpecialisms() {
                   src={s.image}
                   alt={s.name}
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                  loading="eager"
                 />
                 <div
                   className="absolute bottom-3 right-3 text-white text-sm font-bold px-3 py-1 rounded-full shadow-lg"
