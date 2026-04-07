@@ -1,5 +1,6 @@
 import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
+import { KeySpecialisms } from "@/components/KeySpecialisms";
 import { Services } from "@/components/Services";
 import { Portfolio } from "@/components/Portfolio";
 import { Sectors } from "@/components/Sectors";
@@ -17,6 +18,7 @@ export default function Home() {
       <Header />
       <main>
         <Hero />
+        <KeySpecialisms />
         <Services />
         <Portfolio />
         <Sectors />
