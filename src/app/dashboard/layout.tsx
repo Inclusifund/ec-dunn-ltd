@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { AuthGate } from "./AuthGate";
 
 export const metadata: Metadata = {
   title: "Director Dashboard",
@@ -11,6 +12,7 @@ export default function DashboardLayout({
   children: React.ReactNode;
 }) {
   return (
+    <AuthGate>
     <div className="min-h-screen bg-gray-50">
       {/* Dashboard Header */}
       <header className="bg-navy border-b border-white/10">
@@ -57,5 +59,6 @@ export default function DashboardLayout({
         {children}
       </main>
     </div>
+    </AuthGate>
   );
 }
