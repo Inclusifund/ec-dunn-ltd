@@ -38,6 +38,12 @@ export const metadata: Metadata = {
     follow: true,
   },
   metadataBase: new URL("https://ecdunnltd.co.uk"),
+  alternates: {
+    canonical: "/",
+    types: {
+      "text/markdown": "/capabilities.md",
+    },
+  },
 };
 
 export default function RootLayout({

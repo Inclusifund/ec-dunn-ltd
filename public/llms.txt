@@ -1,0 +1,32 @@
+# E C Dunn Ltd
+
+> Specialist ceilings and partitions contractor. 25+ years trading. London, Essex, and the wider South East of England. Schools, healthcare, heritage, and commercial fit-outs.
+
+E C Dunn Ltd (est. 2001) is a UK trade contractor specialising in suspended ceilings, drylining, metal-frame (MF) ceilings, fire-rated systems, and heritage ceiling restoration. Core coverage is London and Essex with regular work across the South East of England. The business has completed 500+ projects, with particular depth in schools (40+ delivered), NHS healthcare facilities, and period/listed-building restoration. Compliance and accreditation cover BBA certification, DfE approval, HTM compliance for healthcare, and Cat A fire-rating work. Preferred material suppliers include Armstrong, Rockfon, and Knauf.
+
+## Core pages
+
+- [Homepage](https://ecdunnltd.co.uk): Services overview, specialisms, sectors, coverage, contact
+- [Capability statement (markdown)](https://ecdunnltd.co.uk/capabilities.md): Full capability doc for tender/PQQ reference, clean markdown for AI consumption
+
+## Director-facing tools (passphrase-gated — not public content)
+
+- ecdunnltd.co.uk/dashboard — director overview
+- ecdunnltd.co.uk/quote — job-variable quote builder
+- ecdunnltd.co.uk/jobs — active jobs tracker
+- ecdunnltd.co.uk/voice — voice-to-draft quote tool
+
+## Company facts
+
+- Trading name: E C Dunn Ltd
+- Established: 2001 (25+ years trading)
+- Base: Orsett / Hornchurch area, Essex, UK
+- Primary services: suspended ceilings, MF ceilings, metal stud partitions, drylining, fire-rated systems, heritage restoration
+- Target sectors: schools and education, hospitals and healthcare (NHS), heritage and listed buildings, commercial fit-outs, restaurants and hospitality
+- Coverage: London, Essex, wider South East England
+- Compliance: BBA certified, DfE approved, HTM compliant, Cat A fire-rated, acoustic-rated, antibacterial-rated systems
+- Key suppliers: Armstrong, Rockfon, Knauf
+
+## Contact
+
+Use the contact form on the homepage or the callback link. Site: https://ecdunnltd.co.uk
