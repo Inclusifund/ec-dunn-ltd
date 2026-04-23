@@ -56,6 +56,23 @@ Sensitive ceiling and partition work in listed buildings, heritage sites, and pe
 
 ---
 
+## Main-contractor partners (selected references)
+
+E C Dunn Ltd has delivered ceilings and partitions scopes under the following UK main contractors, developers, and refurbishment specialists:
+
+- **H W Wilson**
+- **LTS Refurbishment**
+- **Ensigna Construction**
+- **Longley Group**
+- **ACT Developments**
+- **Uber Contracts**
+- **Traditional Builders**
+- **Beaumont**
+
+References available on request for tender and PQQ processes.
+
+---
+
 ## Sectors we work in
 
 - Schools and education estates
