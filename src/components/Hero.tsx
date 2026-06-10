@@ -1,14 +1,19 @@
 export function Hero() {
   return (
     <section className="relative bg-navy pt-20 overflow-hidden">
-      {/* Background image */}
+      {/* Background hero video (silent looping fit-out reel) */}
       <div className="absolute inset-0">
-        <img
-          src="/images/ai/hero-main.jpg"
-          alt="Luxury ceiling with ornate crown molding and LED lighting"
-          className="w-full h-full object-cover opacity-15"
-          loading="eager"
-        />
+        <video
+          className="w-full h-full object-cover opacity-25"
+          autoPlay
+          muted
+          loop
+          playsInline
+          preload="metadata"
+          poster="/video/ecdunn-hero-poster.jpg"
+        >
+          <source src="/video/ecdunn-hero.mp4" type="video/mp4" />
+        </video>
         <div className="absolute inset-0 bg-gradient-to-r from-navy via-navy/95 to-navy/70" />
       </div>
 
