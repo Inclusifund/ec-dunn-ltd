@@ -1,10 +1,10 @@
 export function Hero() {
   return (
     <section className="relative bg-navy pt-20 overflow-hidden">
-      {/* Background hero video (silent looping fit-out reel) */}
+      {/* Background hero video (silent looping fit-out reel) — full opacity, no tint so the craft reads through */}
       <div className="absolute inset-0">
         <video
-          className="w-full h-full object-cover opacity-25"
+          className="w-full h-full object-cover"
           autoPlay
           muted
           loop
@@ -14,7 +14,6 @@ export function Hero() {
         >
           <source src="/video/ecdunn-hero.mp4" type="video/mp4" />
         </video>
-        <div className="absolute inset-0 bg-gradient-to-r from-navy via-navy/95 to-navy/70" />
       </div>
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 md:py-32 lg:py-40">
@@ -28,13 +27,13 @@ export function Hero() {
               </span>
             </div>
 
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6 [text-shadow:0_2px_20px_rgba(8,14,30,0.75)]">
               Expert Ceilings &{" "}
               <span className="text-gold">Partitions</span>{" "}
               Across London &amp; South East
             </h1>
 
-            <p className="text-lg md:text-xl text-white/70 leading-relaxed mb-10 max-w-2xl">
+            <p className="text-lg md:text-xl text-white/90 leading-relaxed mb-10 max-w-2xl [text-shadow:0_1px_12px_rgba(8,14,30,0.7)]">
               From schools and hospitals to heritage sites and upscale restaurants
               &mdash; E C Dunn Ltd delivers quality suspended ceilings,
               partitions, and drylining with the reliability that keeps clients
