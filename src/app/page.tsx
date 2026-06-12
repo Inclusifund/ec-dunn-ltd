@@ -1,5 +1,6 @@
 import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
+import { WorkInMotion } from "@/components/WorkInMotion";
 import { KeySpecialisms } from "@/components/KeySpecialisms";
 import { Services } from "@/components/Services";
 import { Portfolio } from "@/components/Portfolio";
@@ -18,6 +19,7 @@ export default function Home() {
       <Header />
       <main>
         <Hero />
+        <WorkInMotion />
         <KeySpecialisms />
         <Services />
         <Portfolio />
